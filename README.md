@@ -1,4 +1,3 @@
-To make your GitHub repository look professional, your `README.md` should be clear, well-structured, and include instructions on how to actually run the code.
 
 Here is a clean, copy-paste ready version for your project:
 
@@ -77,7 +76,7 @@ The app uses a dictionary-based data structure to store disease profiles. When a
 
 Feel free to fork this project, report issues, or submit pull requests to add more symptoms or disease data!
 
-**Author:** [Your Name]
+**Author:** [R.PAWINHARII]
 
 ---
 
